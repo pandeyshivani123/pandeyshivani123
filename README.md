@@ -1,6 +1,14 @@
-                     Hi there 👋, I'm Shivani
-    📫 How to reach me: pandeyshivani9953@gmail.com
-    ⚡ Fun fact: I qualified for Nationals in Chess Tournament from Oman
+
+      Hi there 👋, I'm Shivani
+A passionate Data Enthusiast.
+
+📫 How to reach me pandeyshivani9953@gmail.com
+⚡ Fun fact: I qualified for Nationals in Chess Tournament from Oman
+
+Connect with me: 
+LinkedIn   Portfolio
+
+ 
 
 <!--
 **pandeyshivani123/pandeyshivani123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
