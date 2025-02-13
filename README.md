@@ -1,4 +1,4 @@
-    ## Hi there 👋, I'm Shivani
+                     Hi there 👋, I'm Shivani
     📫 How to reach me: pandeyshivani9953@gmail.com
     ⚡ Fun fact: I qualified for Nationals in Chess Tournament from Oman
 
