@@ -1,26 +1,12 @@
+<h1 align="center">Hi 👋, I'm Shivani</h1>
+<h3 align="center">A passionate Data Enthusiast</h3>
 
-      Hi there 👋, I'm Shivani
-A passionate Data Enthusiast.
-
-📫 How to reach me pandeyshivani9953@gmail.com
+📫 How to reach me **pandeyshivani9953@gmail.com**
 ⚡ Fun fact: I qualified for Nationals in Chess Tournament from Oman
 
-Connect with me: 
-LinkedIn   Portfolio
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="[[https://linkedin.com/in/https://www.linkedin.com/in/ashutosh171/](https://www.linkedin.com/in/shivani-pandey-a73875139/)](https://www.linkedin.com/in/shivani-pandey-a73875139/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutosh171/" height="30" width="40" /></a>
+<a href="[[https://www.leetcode.com/ashutoshrana171](https://pandeyshivani123.github.io/)](https://pandeyshivani123.github.io/)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://github.com/pandeyshivani123/pandeyshivani123.github.io/blob/main/images/portfolio.jpg)" alt="pandeyshivani123" height="30" width="40" /></a>
+</p>
 
- 
-
-<!--
-**pandeyshivani123/pandeyshivani123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
